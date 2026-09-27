@@ -1,0 +1,6 @@
+{
+  "name": "Analizador de Tráfico IA & Centro de Seguridad",
+  "description": "Consola de ciberseguridad, análisis de tráfico de red en tiempo real, detección de intrusiones, reportes forenses con IA y gestión de dispositivos activos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
